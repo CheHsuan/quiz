@@ -29,5 +29,5 @@ int main(int argc, char *argv[])
 		token2 = strtok(NULL, delim);
 		printf("%c\n",smallest_character(token1, *token2));
 	}
-    return 0;
+        return 0;
 }
